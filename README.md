@@ -1,2 +1,7 @@
-# file_system
-File system simulation with elasticsearch
+# File_System
+File system simulation with elasticsearch.
+
+**Requirements**
+- Elasticsearch 
+- Tensorflow
+- dlib
