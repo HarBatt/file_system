@@ -15,4 +15,4 @@ Key generation using encoded features.
 
 Search query using elasticsearch with threshold of 99%, and key to find the most relevant image which corresponds to the original user.
 
-Compress functions to store the data by acquiring the id of the documents corresoinding to the users.
+Compress functions to store the data by acquiring the id of the documents corresponding to the users.
